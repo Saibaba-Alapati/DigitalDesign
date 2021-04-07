@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Thu Nov  5 10:17:06 2020
+[*]
+[dumpfile] "/Users/saibabaalapati/Desktop/undergrad/DD_lab_files/Exp_9_2019A3PS0361H/Parity_Generator/parity_graph.vcd"
+[dumpfile_mtime] "Thu Nov  5 08:02:11 2020"
+[dumpfile_size] 901
+[savefile] "/Users/saibabaalapati/Desktop/undergrad/DD_lab_files/Exp_9_2019A3PS0361H/Parity_Generator/odd_parity.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-4.748639 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 193
+[signals_width] 90
+[sst_expanded] 1
+[sst_vpaned_height] 167
+@28
+parity_tb.in[2:0]
+@29
+parity_tb.out
+[pattern_trace] 1
+[pattern_trace] 0

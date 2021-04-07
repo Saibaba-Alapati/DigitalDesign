@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Thu Nov  5 09:17:17 2020
+[*]
+[dumpfile] "/Users/saibabaalapati/Desktop/undergrad/DD_lab_files/Exp_9_2019A3PS0361H/Full_Adder/full.vcd"
+[dumpfile_mtime] "Thu Nov  5 07:55:32 2020"
+[dumpfile_size] 997
+[savefile] "/Users/saibabaalapati/Desktop/undergrad/DD_lab_files/Exp_9_2019A3PS0361H/Full_Adder/fulladder.gtkw"
+[timestart] 0
+[size] 2048 1280
+[pos] -1 -1
+*-3.234675 14 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 193
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 397
+@28
+full_adder_tb.a
+full_adder_tb.b
+full_adder_tb.cin
+full_adder_tb.cout
+@29
+full_adder_tb.sum
+[pattern_trace] 1
+[pattern_trace] 0
